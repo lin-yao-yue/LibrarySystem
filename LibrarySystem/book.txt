@@ -1,0 +1,3 @@
+3	newName	newAuther	newCat	newLoc	newOpt	newTime	newPrice	
+5	fgfd	bfdd	fbfd	fbf	fbf	bfd	bfd	
+2	hvyuv	vivhb	viovi	vij	hbh	hiv	nvhi	
